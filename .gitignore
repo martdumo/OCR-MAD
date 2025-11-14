@@ -1,0 +1,30 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos temporales
+*.log
+*.tmp
+*.temp
+
+# Archivos de entorno virtual
+venv/
+.env/
+env/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo

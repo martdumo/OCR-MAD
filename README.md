@@ -66,4 +66,4 @@ Licencia
 MIT – hacé lo que quieras, pero dejá el crédito si te parece copado
 ¡Espero que les sirva y no tengan que pelear mucho con el OCR! 🫡
 Cualquier cosa, tiren un issue (soy lento respondiendo pero eventualmente contesto)
-
+Proyecto en Python • La carpeta tesseract contiene instaladores/binarios del motor OCR Tesseract y no forma parte del código principal del proyecto

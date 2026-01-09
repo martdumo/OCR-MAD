@@ -3,6 +3,8 @@
 Una herramienta simple y portable para Windows que le mete OCR a tus PDFs e imágenes  
 y te devuelve todo bonito con texto seleccionable (¡por fin!).
 
+![Vista principal de OCR-MAD](/2026-01-09%2011_10_37-.png)
+
 Funciona con: PDF, JPG, PNG, TIFF, BMP  
 Idiomas: Español e Inglés
 

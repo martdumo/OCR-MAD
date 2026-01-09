@@ -41,6 +41,7 @@ Idiomas: Español e Inglés
 ## Para los que quieren meter mano (o sea... yo mismo)
 
 Estructura que usa:
+```
 OCR-MAD/
 ├── tesseract/
 │   ├── tesseract.exe
@@ -49,7 +50,7 @@ OCR-MAD/
 │       └── eng.traineddata
 ├── OCR_MAD.py
 └── requirements.txt
-
+```
 
 Dependencias (muy pocas):
 

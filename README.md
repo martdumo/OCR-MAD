@@ -41,3 +41,28 @@ Idiomas: Español e Inglés
 ## Para los que quieren meter mano (o sea... yo mismo)
 
 Estructura que usa:
+OCR-MAD/
+├── tesseract/
+│   ├── tesseract.exe
+│   └── tessdata/
+│       ├── spa.traineddata
+│       └── eng.traineddata
+├── OCR_MAD.py
+└── requirements.txt
+
+
+Dependencias (muy pocas):
+
+pymupdf==1.26.6
+Pillow==12.0.0
+pytesseract==0.3.13
+
+
+Y si querés compilar tu propio .exe (con PyInstaller):
+Es un comando larguísimo y feo, mejor usar el de releases jajaja
+Pero si insistís, está en la versión anterior de este readme 😅
+Licencia
+MIT – hacé lo que quieras, pero dejá el crédito si te parece copado
+¡Espero que les sirva y no tengan que pelear mucho con el OCR! 🫡
+Cualquier cosa, tiren un issue (soy lento respondiendo pero eventualmente contesto)
+
